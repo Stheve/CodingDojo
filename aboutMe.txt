@@ -1,0 +1,3 @@
+Name: Stheve Oses Coronado
+Project Goal: Master Git & Bash
+Favorite Hobby: Coding
